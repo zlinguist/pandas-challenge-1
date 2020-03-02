@@ -1,0 +1,16 @@
+
+
+Zach Childers
+
+
+pandas-challenge
+Option 2: Academy of Py
+
+
+Some observable trends revealed in the data include:
+
+1. Somewhat surprisingly, academic performance by any measure - overall rates or specific passing rates for reading or math - are not positively correlated with spending per student.
+
+2. The largest schools (those having 2000-5000 students) have worse academic performance by all measures than the small or medium sized schools.
+
+3. Charter schools have better performing students than District schools.  In fact, of the top five performing schools by overall passing rate, all are Charter schools, while the five worst performing schools by this measure are all District schools.
